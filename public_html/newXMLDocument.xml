@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<netflop>
+    
+        <genre>
+            <film>
+                <titre>Thor </titre>
+                <image>  </image>
+            </film>
+            
+            <film>
+                <titre>Les Tuche </titre>
+                <image> </image>
+            </film>
+            <film>
+                <titre> Les Tuche 2 </titre>
+                <image> </image>
+            </film>
+            <film>
+                <titre>
+                    <image>
+
+                    </image>
+                </titre>
+            </film>
+        </genre>
+        <genre>
+            <film>
+                <titre>Thor </titre>
+                <image>  </image>
+            </film>
+            
+            <film>
+                <titre>Les Tuche </titre>
+                <image> </image>
+            </film>
+            <film>
+                <titre> Les Tuche 2 </titre>
+                <image> </image>
+            </film>
+            <film>
+                <titre>
+                </titre>
+                <image>
+                </image>
+            </film>
+        </genre>
+    
+</netflop>
